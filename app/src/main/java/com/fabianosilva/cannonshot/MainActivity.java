@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             if (velocidadeInicial > 0 && (angulo > 0 && angulo < 90)) {
 
                 textViewAlturaBala.setText("ALTURA DE " + String.format("%4f", alturaMaxima) + " KM");
-                textViewDistanciaBala.setText("DISTNÂCIA DE "+ String.format("%4f", distanciaMaxima) + " KM");
+                textViewDistanciaBala.setText("DISTÂNCIA DE "+ String.format("%4f", distanciaMaxima) + " KM");
 
             }else{
 
