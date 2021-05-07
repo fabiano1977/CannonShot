@@ -1,0 +1,4 @@
+#Fri May 07 11:19:40 BRT 2021
+base.0=/home/fabianosilva/AndroidStudioProjects/CannonShot/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
