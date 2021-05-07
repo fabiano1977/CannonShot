@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CannonShot</string>
+    <string name="velocidadeBala">Digite a velocidade da bala em (m/s). Exemplo: 7.85</string>
+    <string name="anguloCanhao">Digite o ângulo do canhão de 1.00 a 89.99: Exemplo: 22.55</string>
+    <string name="tiroCanhao">Calcular Tiro de Canhão</string>
+    <string name="alturaBala">Altura máxima da bala</string>
+    <string name="distanciaBala">Distância máxima da bala</string>
+</resources>
